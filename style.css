@@ -1,0 +1,17 @@
+body {
+	background-color: #f0f0f0;
+	font-family: Arial, sans-serif;
+}
+
+#gameCanvas {
+	border: 1px solid #000;
+}
+
+button {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
